@@ -1,10 +1,10 @@
-package com.iflytek.testdemo;
+package com.iflytek.gmall.user;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TestdemoApplicationTests {
+class GmallUserApplicationTests {
 
     @Test
     void contextLoads() {
