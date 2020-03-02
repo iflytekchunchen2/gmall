@@ -1,7 +1,7 @@
 package com.iflytek.gmall.user.service.impl;
 
+import com.alibaba.dubbo.config.annotation.Service;
 import com.iflytek.gmall.service.UserService;
-import org.springframework.stereotype.Service;
 
 @Service
 public class UserServiceImpl implements UserService {

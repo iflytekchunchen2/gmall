@@ -1,4 +1,4 @@
-package com.iflytek.gmall.user.service;
+package com.iflytek.gmall.service;
 
 import com.iflytek.gmall.bean.UmsMemberReceiveAddress;
 
